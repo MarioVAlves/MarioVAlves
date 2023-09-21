@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mario+Rafael;I'm+35+years+old;I'm+live+in+São+Paulo+Brazil;I+study+FrontEnd;I+graduating+in+Information+Tecnology+Management;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mario+Rafael;I'm+35+years+old;I'm+live+in+São+Paulo+Brazil;I+study+FrontEnd+Development;I+graduating+in+Information+Tecnology+Management;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  👋Olá <br>
 Eu sou o Mario Rafael, moro em São Paulo e sou estudante de Front End, apaixonado por tecnologia e também gosto de praticar esportes como academia e basquete. Trabalho com suporte que foi meu primeiro contato com T.I. mas atualmente estou aprendendo e criando projetos com:
