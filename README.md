@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mario+Rafael;I'm+35+years+old;I'm+live+in+São+Paulo+Brazil;I+study+FrontEnd+Development;I+graduating+in+Information+Tecnology+Management;Be+Welcome!+:%29)](https://git.io/typing-svg)
-#
+
 <h1 align='center'>
- 👋  Olá, Mundo! 🌎
+ # 👋  Olá, Mundo! 🌎
   <br/>
   Bem vindos ao meu espaço!
 </h1>
@@ -13,12 +13,16 @@
  ## 👦 Sobre mim:
 <p>
   <em>
-   Eu sou Mario Rafael, moro em São Paulo e sou estudante de Front End, apaixonado por tecnologia e também gosto de praticar esportes como academia e basquete. Trabalho com suporte que foi meu primeiro contato com T.I. mas atualmente estou aprendendo e criando projetos com:
+   Eu sou Mario Rafael, moro em São Paulo e sou estudante de Front End, apaixonado por tecnologia e também gosto de praticar esportes como academia e basquete. Trabalho com suporte que foi meu primeiro contato com T.I. mas atualmente estou aprendendo e criando projetos.
   </em>
 </p><br>
 ### 🤖 Tecnologias que uso 🛠:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">.
+<div style="display: inline_block">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" alt="Computador iuriCode">
+ </div>
+<br>
 <br>
 ### 📈 Minhas Estatísticas
 
